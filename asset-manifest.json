@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/toVillage/static/js/main.336f5daf.js",
+    "main.css": "/toVillage/static/css/main.90ecc77c.css",
+    "main.js": "/toVillage/static/js/main.c73ce67a.js",
     "index.html": "/toVillage/index.html",
-    "main.336f5daf.js.map": "/toVillage/static/js/main.336f5daf.js.map"
+    "main.90ecc77c.css.map": "/toVillage/static/css/main.90ecc77c.css.map",
+    "main.c73ce67a.js.map": "/toVillage/static/js/main.c73ce67a.js.map"
   },
   "entrypoints": [
-    "static/js/main.336f5daf.js"
+    "static/css/main.90ecc77c.css",
+    "static/js/main.c73ce67a.js"
   ]
 }
