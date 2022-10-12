@@ -1,0 +1,49 @@
+:root {
+  --theme_color: #55b3d9;
+}
+
+#header {
+  position: absolute;
+  width: 1080px;
+  z-index: 100;
+}
+
+.container {
+  background-color: #bce5f5;
+  background-color: var(--theme_color);
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  border: 1px solid black;
+}
+.header_left .toggle_btn {
+  width: 30px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  background-color: whitesmoke;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 1.3rem;
+}
+.header_center {
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.header_right button {
+  width: 30px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 50%;
+  background-color: whitesmoke;
+  cursor: pointer;
+  text-align: center;
+  color: var(--theme_color);
+}
