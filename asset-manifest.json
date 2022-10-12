@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toVillage/static/css/main.90ecc77c.css",
-    "main.js": "/toVillage/static/js/main.c73ce67a.js",
+    "main.css": "/toVillage/static/css/main.c2d875fc.css",
+    "main.js": "/toVillage/static/js/main.ed2aa0b8.js",
     "index.html": "/toVillage/index.html",
-    "main.90ecc77c.css.map": "/toVillage/static/css/main.90ecc77c.css.map",
-    "main.c73ce67a.js.map": "/toVillage/static/js/main.c73ce67a.js.map"
+    "main.c2d875fc.css.map": "/toVillage/static/css/main.c2d875fc.css.map",
+    "main.ed2aa0b8.js.map": "/toVillage/static/js/main.ed2aa0b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.90ecc77c.css",
-    "static/js/main.c73ce67a.js"
+    "static/css/main.c2d875fc.css",
+    "static/js/main.ed2aa0b8.js"
   ]
 }
